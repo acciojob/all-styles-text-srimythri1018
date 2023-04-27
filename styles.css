@@ -1,2 +1,7 @@
-
+h1{
+	background: blueviolet;
+	padding:10px;
+	color:whitesmoke;
+	border-left:10px solid seagreen
+}
 /* Your CSS Code here. */
